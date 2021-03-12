@@ -55,6 +55,8 @@ namespace GoogleTranslate1
 
         private const string _uaLangSl = "sl=uk";
 
+        private const string _ruLangSl = "sl=ru";
+
         private const string filePath = @"C:\Users\DM\Desktop\Testing\Hello.txt";
 
 
